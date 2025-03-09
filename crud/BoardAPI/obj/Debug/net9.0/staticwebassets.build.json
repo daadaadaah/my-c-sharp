@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bW5rkYpPURO8NYyQzVHvNPDMH+j0FqEMk0yDV1Pcgwo=",
+  "Source": "BoardAPI",
+  "BasePath": "_content/BoardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
