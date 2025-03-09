@@ -1,0 +1,15 @@
+/Users/daheekwak/Desktop/my-c-sharp/practice/bin/Debug/net9.0/practice
+/Users/daheekwak/Desktop/my-c-sharp/practice/bin/Debug/net9.0/practice.deps.json
+/Users/daheekwak/Desktop/my-c-sharp/practice/bin/Debug/net9.0/practice.runtimeconfig.json
+/Users/daheekwak/Desktop/my-c-sharp/practice/bin/Debug/net9.0/practice.dll
+/Users/daheekwak/Desktop/my-c-sharp/practice/bin/Debug/net9.0/practice.pdb
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.AssemblyInfoInputs.cache
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.AssemblyInfo.cs
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.csproj.CoreCompileInputs.cache
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.sourcelink.json
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.dll
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/refint/practice.dll
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.pdb
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/practice.genruntimeconfig.cache
+/Users/daheekwak/Desktop/my-c-sharp/practice/obj/Debug/net9.0/ref/practice.dll
